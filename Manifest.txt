@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/hello_world
+lib/hello_world.rb
+test/test_hello_world.rb
